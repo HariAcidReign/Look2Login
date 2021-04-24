@@ -43,6 +43,7 @@ This project aims at integrating Email Auth with Biometric auth (Facial recognit
 - dlib
 - cmake
 - XAMPP
+- Tailwind CSS (for the 6 pages) and Bootstrap (for all the other pages)
 ```
 
 
