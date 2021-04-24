@@ -19,7 +19,7 @@
 
 - Look 2 Login is an efficient biometric scanner for authenticating Login and Registration with Email-ID + Facial Recognition
 - First the user registers their email id and face features (which gets named as per email-id). Then to login, just type in your email credentials and keep your face visible to the camera. The script then compares your face features to the registered pic corresponding tp the email-id. If it matches, you get access. Else, denied. 
-- All the various exceptions (eg. Face not visible, incorrect email, email doesn't exist etc.) have been handled properly.
+- All the various exceptions have been handled properly **[Email ID already exist, Captured image is not a proper face, Email ID not found, Face is not recognized/exist in database]**
 - This program can be used as a base, and built upto to satisfy your project needs.
 
 ## 📷 Live Demo 
@@ -49,12 +49,12 @@ This project aims at integrating Email Auth with Biometric auth (Facial recognit
 ## 💻 Meet the makers
 
 Created with 💖 by :
-- [Hariharan B](https://github.com/HariAcidReign) - UI/UX and Front end (6 pages, Dash, Login and Signup)
-- [Aadhith S](https://github.com/L3g3Nd4Ry-iwnl) - Front end dev (Dash, Login and Signup)
-- [Aravindh S](https://github.com/Aravindh222) - Login and Register Python scripts
-- [Balaji D](https://github.com/balajidass07) - JS and debugging for all pages
-- [Hareesh V](https://github.com/hareesh2904) - Biometric algo and DOM connecting 
-- Mukesh MM - 6 pages UI
+- [Hariharan B](https://github.com/HariAcidReign) - **UI/UX and Front end** (6 pages, Dash, Login and Signup)
+- [Aadhith S](https://github.com/L3g3Nd4Ry-iwnl) - **Front end dev** (Dash, Login and Signup)
+- [Aravindh S](https://github.com/Aravindh222) - **Login and Register Python scripts**
+- [Balaji D](https://github.com/balajidass07) - **JS and debugging for all pages**
+- [Hareesh V](https://github.com/hareesh2904) - **Biometric algo and DOM connecting**
+- Mukesh MM - **6 pages UI**
 
 
 
