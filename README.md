@@ -28,7 +28,7 @@ Checkout the demo video of the project [here](https://drive.google.com/file/d/1s
 
 ## 🎯 Purpose of the Project
 
-This project aims at integrating Email Auth with Biometric auth (Facial recognition) while providing a fast authentication time. To use this project for your own purposes, just replace the funny output screens with the screens of your app i.e. Dashboard, Social Feed etc.  
+This project aims at integrating Email Auth with Biometric auth (Facial recognition) while providing a fast authentication time. To use this project for your own purposes, just replace the funny output screens with the screens of your app i.e. Dashboard, Social Feed etc. Also replace the images in the `students` folder with your own and rename those images to their corresponding email-id for verification.
 
 ## 🏛️ Tech Stack Used
 
